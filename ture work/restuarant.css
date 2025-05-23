@@ -1,0 +1,14 @@
+img1{
+    width: 300px;
+    height: auto;
+
+}
+img2{
+    width: 300pv;
+    height: auto;
+}
+img3{
+    width: 300px;
+    height: auto;
+    image-resolution: 50px;
+}

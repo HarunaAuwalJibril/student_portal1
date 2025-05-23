@@ -1,0 +1,16 @@
+h2{
+    color: green;
+}
+.input1{
+    border-color: aquamarine;
+    background-color: blueviolet;
+}
+.input2{
+    border-color: antiquewhite;
+    background-color: blue;
+    color: white;
+}
+img{
+    width: 300px;
+    heigh:auto;
+}
