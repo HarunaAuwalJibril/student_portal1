@@ -83,7 +83,7 @@ if($result){
             <p style="text-align: justify;">We look forward to welcoming you to our institution and assisting you in your academic journey.</p>
             <p style="text-align: justify;">If you have any questions or need further information, please feel free to contact our admissions office.</p>
             <p style="text-align: justify;">Best regards,</p>
-            <p style="text-align: justify;"><b>Mal. Haruna Auwal Jibril</b><br>Admissions Office<br>Al-Qalam University</p>
+            <p style="text-align: justify;"><b>DR. Haruna Auwal Jibril</b><br>Admissions Office<br>Al-Qalam University</p>
         </div>
         <div class="footer">
             <p>Website: www.auk.edu.ng<br>Email: admissions@auk.edu.ng<br>Phone: +234 8065308863</p>
